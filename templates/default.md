@@ -23,6 +23,17 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
 <% } -%>
+<% if (isGithubRepos) { -%>
+  <a href="<%= repositoryUrl %>/stargazers" target="_blank">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/<%= authorGithubUsername %>/<%= projectName %>?style=social" />
+  </a>
+  <a href="<%= repositoryUrl %>/issues" target="_blank">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/<%= authorGithubUsername %>/<%= projectName %>" />
+  </a>
+  <a href="<%= repositoryUrl %>/network/members" target="_blank">
+    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/<%= authorGithubUsername %>/<%= projectName %>?style=social" />
+  </a>
+<% } -%>
 <% if (licenseName) { -%>
   <a href="<%= licenseUrl ? licenseUrl : '#' %>" target="_blank">
     <img alt="License: <%= licenseName %>" src="https://img.shields.io/<%= isGithubRepos ? `github/license/${authorGithubUsername}/${projectName}` : `badge/License-${licenseName}-yellow.svg` %>" />

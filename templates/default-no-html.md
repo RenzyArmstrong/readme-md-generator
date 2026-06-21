@@ -15,6 +15,9 @@
 <% } -%>
 <% if (isGithubRepos) { -%>
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](<%= repositoryUrl %>/graphs/commit-activity)
+[![GitHub Stars](https://img.shields.io/github/stars/<%= authorGithubUsername %>/<%= projectName %>?style=social)](<%= repositoryUrl %>/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/<%= authorGithubUsername %>/<%= projectName %>)](<%= repositoryUrl %>/issues)
+[![GitHub Forks](https://img.shields.io/github/forks/<%= authorGithubUsername %>/<%= projectName %>?style=social)](<%= repositoryUrl %>/network/members)
 <% } -%>
 <% if (licenseName) { -%>
 [![License: <%= licenseName %>](https://img.shields.io/<%= isGithubRepos ? `github/license/${authorGithubUsername}/${projectName}` : `badge/License-${licenseName}-yellow.svg` %>)](<%= licenseUrl ? licenseUrl : '#' %>)
