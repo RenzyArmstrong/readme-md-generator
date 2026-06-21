@@ -20,7 +20,7 @@
 [![License: <%= licenseName %>](https://img.shields.io/<%= isGithubRepos ? `github/license/${authorGithubUsername}/${projectName}` : `badge/License-${licenseName}-yellow.svg` %>)](<%= licenseUrl ? licenseUrl : '#' %>)
 <% } -%>
 <% if (authorTwitterUsername) { -%>
-[![Twitter: <%= authorTwitterUsername %>](https://img.shields.io/twitter/follow/<%= authorTwitterUsername %>.svg?style=social)](https://twitter.com/<%= authorTwitterUsername %>)
+[![X: <%= authorTwitterUsername %>](https://img.shields.io/badge/X-%40<%= authorTwitterUsername %>-000000?style=social&logo=x)](https://x.com/<%= authorTwitterUsername %>)
 <% } -%>
 <% if (projectDescription) { -%>
 
@@ -76,7 +76,7 @@
 * Website: <%= authorWebsite %>
 <% } -%>
 <% if (authorTwitterUsername) { -%>
-* Twitter: [@<%= authorTwitterUsername %>](https://twitter.com/<%= authorTwitterUsername %>)
+* X: [@<%= authorTwitterUsername %>](https://x.com/<%= authorTwitterUsername %>)
 <% } -%>
 <% if (authorGithubUsername) { -%>
 * GitHub: [@<%= authorGithubUsername %>](https://github.com/<%= authorGithubUsername %>)

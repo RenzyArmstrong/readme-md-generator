@@ -1,24 +1,23 @@
 <h1 align="center">Welcome to readme-md-generator 👋</h1>
+<h1 align="center"><sub>Now maintained by <a href="https://github.com/RenzyArmstrong">RenzyArmstrong</a> 🚀</sub></h1>
 <p align="center">
   <img src="https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" />
   <a href="https://www.npmjs.com/package/readme-md-generator">
     <img alt="downloads" src="https://img.shields.io/npm/dm/readme-md-generator.svg?color=blue" target="_blank" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
+  <a href="https://github.com/RenzyArmstrong/readme-md-generator/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a>
-  <a href="https://codecov.io/gh/kefranabg/readme-md-generator">
-    <img src="https://codecov.io/gh/kefranabg/readme-md-generator/branch/master/graph/badge.svg" />
+  <a href="https://codecov.io/gh/RenzyArmstrong/readme-md-generator">
+    <img src="https://codecov.io/gh/RenzyArmstrong/readme-md-generator/branch/master/graph/badge.svg" />
   </a>
-  <a href="https://github.com/frinyvonnick/gitmoji-changelog">
-    <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
-  </a>
-  <a href="https://twitter.com/FranckAbgrall">
-    <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/twitter/follow/FranckAbgrall.svg?style=social" target="_blank" />
+  <a href="https://x.com/FranckAbgrall">
+    <img alt="X: FranckAbgrall" src="https://img.shields.io/badge/X-%40FranckAbgrall-000000?style=social&logo=x" target="_blank" />
   </a>
 </p>
 
-> CLI that generates beautiful README.md files.<br /> `readme-md-generator` will suggest you default answers by reading your `package.json` and `git` configuration.
+> CLI that generates beautiful README.md files.<br /> `readme-md-generator` will suggest you default answers by reading your `package.json` and `git` configuration.<br>
+> **🔧 Actively maintained fork of [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator)**
 
 ## ✨ Demo
 
@@ -113,29 +112,27 @@ Support this project with your organization. Your logo will show up here with a 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome.<br />
-Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues) if you want to contribute.<br />
+Feel free to check [issues page](https://github.com/RenzyArmstrong/readme-md-generator/issues) if you want to contribute.<br />
 [Check the contributing guide](./CONTRIBUTING.md).<br />
 
 ## Author
 
-👤 **Franck Abgrall**
+👤 **RenzyArmstrong**
 
-- Twitter: [@FranckAbgrall](https://twitter.com/FranckAbgrall)
-- Github: [@kefranabg](https://github.com/kefranabg)
+- X: [@RenzyArmstrong](https://x.com/RenzyArmstrong)
+- Github: [@RenzyArmstrong](https://github.com/RenzyArmstrong)
+
+> Originally created by [Franck Abgrall](https://github.com/kefranabg)
 
 ## Show your support
 
 Please ⭐️ this repository if this project helped you!
 
-<a href="https://www.patreon.com/FranckAbgrall">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
 ## 📝 License
 
-Copyright © 2019 [Franck Abgrall](https://github.com/kefranabg).<br />
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+Copyright © 2024 [RenzyArmstrong](https://github.com/RenzyArmstrong).<br />
+This project is [MIT](https://github.com/RenzyArmstrong/readme-md-generator/blob/master/LICENSE) licensed.
 
 ---
 
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/RenzyArmstrong/readme-md-generator)_

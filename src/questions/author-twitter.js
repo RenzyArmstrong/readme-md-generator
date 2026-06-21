@@ -2,7 +2,7 @@ const { cleanSocialNetworkUsername } = require('../utils')
 
 module.exports = () => ({
   type: 'input',
-  message: '🐦  Twitter username (use empty value to skip)',
+  message: '🐦  X username (use empty value to skip) — formerly Twitter',
   name: 'authorTwitterUsername',
   filter: cleanSocialNetworkUsername
 })

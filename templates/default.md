@@ -29,8 +29,8 @@
   </a>
 <% } -%>
 <% if (authorTwitterUsername) { -%>
-  <a href="https://twitter.com/<%= authorTwitterUsername %>" target="_blank">
-    <img alt="Twitter: <%= authorTwitterUsername %>" src="https://img.shields.io/twitter/follow/<%= authorTwitterUsername %>.svg?style=social" />
+  <a href="https://x.com/<%= authorTwitterUsername %>" target="_blank">
+    <img alt="X: <%= authorTwitterUsername %>" src="https://img.shields.io/badge/X-%40<%= authorTwitterUsername %>-000000?style=social&logo=x" />
   </a>
 <% } -%>
 </p>
@@ -88,7 +88,7 @@
 * Website: <%= authorWebsite %>
 <% } -%>
 <% if (authorTwitterUsername) { -%>
-* Twitter: [@<%= authorTwitterUsername %>](https://twitter.com/<%= authorTwitterUsername %>)
+* X: [@<%= authorTwitterUsername %>](https://x.com/<%= authorTwitterUsername %>)
 <% } -%>
 <% if (authorGithubUsername) { -%>
 * GitHub: [@<%= authorGithubUsername %>](https://github.com/<%= authorGithubUsername %>)

@@ -17,8 +17,8 @@ exports[`readme buildReadmeContent should return readme default template content
   <a href=\\"https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE\\" target=\\"_blank\\">
     <img alt=\\"License: MIT\\" src=\\"https://img.shields.io/github/license/kefranabg/readme-md-generator\\" />
   </a>
-  <a href=\\"https://twitter.com/FranckAbgrall\\" target=\\"_blank\\">
-    <img alt=\\"Twitter: FranckAbgrall\\" src=\\"https://img.shields.io/twitter/follow/FranckAbgrall.svg?style=social\\" />
+  <a href=\"https://x.com/FranckAbgrall\" target=\"_blank\">
+    <img alt=\"X: FranckAbgrall\" src=\"https://img.shields.io/badge/X-%40FranckAbgrall-000000?style=social\\&logo=x\" />
   </a>
 </p>
 
@@ -89,7 +89,7 @@ exports[`readme buildReadmeContent should return readme default template no html
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/kefranabg/readme-md-generator#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kefranabg/readme-md-generator/graphs/commit-activity)
 [![License: MIT](https://img.shields.io/github/license/kefranabg/readme-md-generator)](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE)
-[![Twitter: FranckAbgrall](https://img.shields.io/twitter/follow/FranckAbgrall.svg?style=social)](https://twitter.com/FranckAbgrall)
+[![X: FranckAbgrall](https://img.shields.io/badge/X-%40FranckAbgrall-000000?style=social\\&logo=x)](https://x.com/FranckAbgrall)
 
 > Generates beautiful README files from git config &amp; package.json infos
 
